@@ -3,7 +3,7 @@
 Welcome to the Sports Zone client-side application! This is the front-end of the Sports Zone online store, where users can browse, view, and manage sports equipment.
 
 ## 🚀 Live Site
-🔗 [Sports Zone Live URL](#)
+🔗 [[Sports Zone Live URL](https://sports-zone-a10-client.web.app/)](#)
 
 ## 📌 Features
 - ✅ **Browse Products**: Explore a wide variety of sports equipment such as footballs, bats, rackets, and more.
