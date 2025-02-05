@@ -2,8 +2,7 @@
 
 Welcome to the Sports Zone client-side application! This is the front-end of the Sports Zone online store, where users can browse, view, and manage sports equipment.
 
-## 🚀 Live Site
-🔗 [[Sports Zone Live URL](https://sports-zone-a10-client.web.app/)](#)
+## 🚀 Live Site :🔗 [Sports Zone Live URL](https://sports-zone-a10-client.web.app/)
 
 ## 📌 Features
 - ✅ **Browse Products**: Explore a wide variety of sports equipment such as footballs, bats, rackets, and more.
@@ -23,8 +22,10 @@ Welcome to the Sports Zone client-side application! This is the front-end of the
 
 ## 🧑‍💻 ScreenShoots
 <div align="center">
-  <img  src="https://github.com/Salman-Shaid/Courier-Z/blob/main/client/src/assets/Screenshot%202025-02-05%20174436.png"  />
-  <img  src="https://github.com/Salman-Shaid/Courier-Z/blob/main/client/src/assets/Screenshot%202025-02-05%20174504.png"  />
-  <img  src="https://github.com/Salman-Shaid/Courier-Z/blob/main/client/src/assets/Screenshot%202025-02-05%20174517.png"  />
+  <img  src="https://github.com/Salman-Shaid/Sports-Zone/blob/main/sports-zone-10-client/src/assets/logo/Screenshot%202025-02-05%20175528.png"  />
+  <img  src="https://github.com/Salman-Shaid/Sports-Zone/blob/main/sports-zone-10-client/src/assets/logo/Screenshot%202025-02-05%20175540.png"  />
+  <img  src="https://github.com/Salman-Shaid/Sports-Zone/blob/main/sports-zone-10-client/src/assets/logo/Screenshot%202025-02-05%20175555.png"  />
+  <img  src="https://github.com/Salman-Shaid/Sports-Zone/blob/main/sports-zone-10-client/src/assets/logo/Screenshot%202025-02-05%20175609.png"  />
+  <img  src="https://github.com/Salman-Shaid/Sports-Zone/blob/main/sports-zone-10-client/src/assets/logo/Screenshot%202025-02-05%20175620.png"  />
 </div>
 
